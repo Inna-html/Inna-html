@@ -7,8 +7,8 @@
 <p align='center'>
   🌱 I’m currently learning React.js </br>
   ✨ Here you can see my own projects from scratch, </br>
-  ✨ projects that I repeat after video tutorials and </br>
-  ✨ co-working projects with novice frontenders :) 
+  ✨ co-working projects with novice frontenders :) </br>
+  ✨ and projects that I repeat after video tutorial 
 </p>
 
 </br>
