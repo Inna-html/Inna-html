@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> My discord name: l_of_d
-<a href="https://discord.com" target="blank">
+<a href="https://discord.com" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="l_of_d" height="30" width="40" />
 </a>
 </p>
