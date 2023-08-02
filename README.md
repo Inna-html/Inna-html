@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Inna!</h1>
-<h3 align="center">I'm studying frontend development</h3>
+<img src='https://cdn.discordapp.com/attachments/976893728310571038/1136279218649583657/IMG_20230802_153949_162.webp' />
 
 </br>
 
+<h3 align="center">I'm studying frontend development</h3>
 <p align='center'>
   🌱 I’m currently learning React.js </br>
   ✨ Here you can see my own projects from scratch, </br>
@@ -29,14 +29,17 @@
 
 </hr>
 
+<div align='center'>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inna-html&layout=compact)
-   
-  ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Inna-html)
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=InnaHTML&theme=ligth)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inna-html&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inna-html&theme=solarized_dark)
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?usernameInna-html)
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Inna-html)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 
     
