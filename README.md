@@ -14,10 +14,11 @@
 </br>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"> My discord name: l_of_d
-<a href="https://discord.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="l_of_d" height="30" width="40" />
+<p align="center"> My telegram name: l_of_d
+<a href="https://t.me/l_of_d" target="_blank">
+  <img align="center" src="https://papik.pro/uploads/posts/2022-01/1643603283_54-papik-pro-p-logotip-telegram-55.png" alt="l_of_d" height="40" width="40" />
 </a>
+  (click here)
 </p>
 
 </br>
