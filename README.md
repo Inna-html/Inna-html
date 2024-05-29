@@ -3,9 +3,8 @@
 
 </br>
 
-<h3 align="center">I'm studying frontend development</h3>
+<h3 align="center">I'm frontend developer</h3>
 <p align='center'>
-  🌱 I’m currently learning React.js </br>
   ✨ Here you can see my own projects from scratch, </br>
   ✨ co-working projects with novice frontenders :) </br>
   ✨ and projects that I repeat after video tutorial 
