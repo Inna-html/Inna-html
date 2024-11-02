@@ -1,5 +1,5 @@
 
-<img src='https://cdn.discordapp.com/attachments/976893728310571038/1136279218649583657/IMG_20230802_153949_162.webp?ex=661fc4fc&is=660d4ffc&hm=ece5b17c383f2522ee81cdb9e1aa5c1a4d49b2b165c1df92b3bc69ecc7fc8fd2&' />
+<img src='./1.jfif' />
 
 </br>
 
