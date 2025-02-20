@@ -30,15 +30,14 @@
 
 <div align='center'>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inna-html&layout=compact)
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=InnaHTML&theme=ligth)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inna-html&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inna-html&theme=solarized_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inna-html&layout=compact)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Inna-html)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-
-    
