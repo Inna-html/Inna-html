@@ -12,8 +12,8 @@
 </br>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"> My telegram name: l_of_d
-<a href="https://t.me/l_of_d" target="_blank">
+<p align="center"> My telegram name: closebutnotnear
+<a href="https://t.me/closebutnotnear" target="_blank">
   <img align="center" src="https://papik.pro/uploads/posts/2022-01/1643603283_54-papik-pro-p-logotip-telegram-55.png" alt="l_of_d" height="40" width="40" />
 </a>
   (click here)
